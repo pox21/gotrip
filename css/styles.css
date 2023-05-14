@@ -79,7 +79,7 @@ ul, li {
 .header {
   position: relative;
   background: linear-gradient(132.05deg, #428E5F -17.38%, #112120 78.4%) no-repeat;
-  clip-path: polygon(100% 0, 100% 80%, 54% 99.3%, 50% 99.8%, 46% 99.3%, 0 80%, 0 0);
+  clip-path: polygon(100% 0, 100% 84%, 54% 97.8%, 50% 98.3%, 46% 97.8%, 0 84%, 0 0);
   border-top-left-radius: 90px;
   border-top-right-radius: 90px;
   padding-top: 44px;
@@ -146,8 +146,8 @@ ul, li {
 
 .hero__img {
   position: absolute;
-  bottom: -200px;
-  right: -120px;
+  bottom: -210px;
+  right: 50px;
 }
 
 .destinations__container {
